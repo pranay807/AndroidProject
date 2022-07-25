@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50575878441",
+    "project_id": "furniture-dac15",
+    "storage_bucket": "furniture-dac15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50575878441:android:070beb08452c186344ef38",
+        "android_client_info": {
+          "package_name": "com.example.modernfurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50575878441-p6goblfva3vn0bkbten3jn7ddif1oor8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcnpcobHi87_SnwWqM_O939MbcOvg4SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50575878441-p6goblfva3vn0bkbten3jn7ddif1oor8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
